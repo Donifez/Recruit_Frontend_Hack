@@ -210,12 +210,14 @@ export default class App extends React.Component {
     <a className="hov" href='#'><i className="fab fa-facebook-f"></i></a>
  
     <a className="hov" href='#'><i className="fab fa-twitter"></i></a>
+   
     <a className="hov" href='#'><i className="fab fa-instagram" ></i></a>
+    
     </div>
     <p></p>
         </Nav>
       <Nav vertical className= "txt col-lg-3">
-          <NavLink disabled href="#">Site Map</NavLink> <NavLink href="#home">Home</NavLink> <NavLink href="#feature">Features</NavLink><NavLink href="#service">Services</NavLink> <NavLink href="#price">Pricing</NavLink> <NavLink href="#client">Clients</NavLink> </Nav>
+          <NavLink disabled href="##">Site Map</NavLink> <NavLink href="#home">Home</NavLink> <NavLink href="#feature">Features</NavLink><NavLink href="#service">Services</NavLink> <NavLink href="#price">Pricing</NavLink> <NavLink href="#client">Clients</NavLink> </Nav>
         <Nav vertical className= "txt col-lg-3">
         <NavLink disabled href="#">Legal</NavLink> <NavLink href="#">Terms of service</NavLink> <NavLink href="#">Privacy policy</NavLink> <NavLink href="#">API connect</NavLink> <NavLink href="#">FAQ</NavLink> 
         </Nav>

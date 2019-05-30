@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+ 
 }
 
 .App-logo {
@@ -166,10 +167,11 @@ line-height: 67px;
   padding-right:-15px;
  }
 #home{
-    
+
   animation-name: fade;
 
   -webkit-animation: fade 4s 1 linear;
+
 }
 #service{
   padding-bottom:120px;
